@@ -1,6 +1,6 @@
 # 📰 WPArticle-MSNSlideshow Server
 
-A lightweight **Node.js + Express** backend that processes slideshow content from WordPress, stores it as JSON, and serves dynamic RSS feeds for external consumption. This server is designed to work with the **[WPArticle-MSNSlideshow WordPress Plugin](https://github.com/bin3lam/WPArticle-MSNSlideshow-Plugin)** (or a custom plugin) that sends slideshow data via HTTP requests.
+A lightweight **Node.js + Express** backend that processes slideshow content from WordPress, stores it as JSON, and serves dynamic RSS feeds for external consumption. This server is designed to work with the **[WPArticle-MSNSlideshow Plugin](https://github.com/bin3lam/WPArticle-MSNSlideshow-Plugin)** (or a custom plugin) that sends slideshow data via HTTP requests.
 
 ---
 
