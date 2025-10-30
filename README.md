@@ -1,2 +1,2 @@
 # WPArticle-MSNSlideshow-Server
-The backend server for the WPArticle-MSNSlideshow WordPress Plugin.  
+This component serves as the backend server for the WPArticle-MSNSlideshow WordPress plugin, managing data processing and integration, built in node.js.
